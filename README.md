@@ -1,3 +1,4 @@
 This is bash build script for Android ROMs!
-using :
+using:
+
     bash build.bash
